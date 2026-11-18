@@ -83,7 +83,9 @@
   "title": "Cloud & DevOps - Free courses, certificate $5",
   "desc": "AWS, Azure and Google Cloud plus DevOps and infrastructure-as-code (Terraform, Kubernetes) - free training, certificate $3.",
   "n": 9,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-18T20:37Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7528919467507179520/"
  },
  {
   "type": "article",
