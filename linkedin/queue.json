@@ -1,0 +1,810 @@
+[
+ {
+  "type": "overview",
+  "url": "https://amaadoracademy.com/",
+  "title": "AMAADOR ACADEMY — free professional training",
+  "n": 1,
+  "status": "posted",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7528741316575526912/"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/csr-kit/",
+  "title": "CSR starter kit: ISO 26000, GRI and the SDGs",
+  "desc": "CSR (corporate social responsibility) starter kit: what ISO 26000 says, plus $1 templates for a materiality matrix, stakeholder map, CSR policy, KPI tracker and annual report outline, with a 20-minute course.",
+  "n": 2,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/ai.html",
+  "title": "AI & Data - Free courses, certificate $5",
+  "desc": "Practical and generative AI, prompt engineering and cloud AI certifications - free training, certificate $3.",
+  "n": 3,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/compare/csp-vs-nebosh/",
+  "title": "CSP vs NEBOSH",
+  "desc": "A factual comparison of the BCSP Certified Safety Professional and NEBOSH qualifications, including BCSP’s published eligibility outline and qualifying-credential list.",
+  "n": 4,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/exam.html",
+  "title": "Practice exams",
+  "desc": "Timed practice exams (mock tests) for CISSP, PMP, AWS, Azure, Lean Six Sigma, ISO 45001 and more. A practice exam is $3 (promotion until 31 Dec 2026). Shuffled questions, instant scoring at the 80% pass mark, and full answer review. No account.",
+  "n": 5,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/career.html",
+  "title": "Career & Transition - Free courses, certificate $5",
+  "desc": "Career change, job search, surviving layoffs, interviewing and salary negotiation — free, certificate $3.",
+  "n": 6,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/compare/iso-45001-vs-ohsas-18001/",
+  "title": "ISO 45001 vs OHSAS 18001",
+  "desc": "ISO 45001:2018 was published on 12 March 2018 and replaced OHSAS 18001, with a three-year migration announced at publication. Official sources and our matching courses.",
+  "n": 7,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/new-courses.html",
+  "title": "New courses",
+  "desc": "Courses added recently on AMAADOR ACADEMY, listed newest first. Every course is free to start; a verifiable certificate is available for $3. Practice exams are $3.",
+  "n": 8,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/cloud.html",
+  "title": "Cloud & DevOps - Free courses, certificate $5",
+  "desc": "AWS, Azure and Google Cloud plus DevOps and infrastructure-as-code (Terraform, Kubernetes) - free training, certificate $3.",
+  "n": 9,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/compare/nebosh-igc-vs-diploma/",
+  "title": "NEBOSH IGC vs NEBOSH Diploma",
+  "desc": "A factual comparison of the NEBOSH International General Certificate and the Level 6 International Diploma, using official NEBOSH level and entry-requirement statements.",
+  "n": 10,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/branded-academy.html",
+  "title": "Branded company academy",
+  "desc": "A private Academy space in your colours: you pick the courses, invite your learners, follow progress and export SCORM packages to your own LMS.",
+  "n": 11,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/cybersecurity.html",
+  "title": "Cybersecurity and IT",
+  "desc": "Cyber awareness, GDPR, ISO 27001 plus CISSP, CISM and Lead Auditor exam preparation - free training, certificate $3.",
+  "n": 12,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/compare/nebosh-vs-iosh/",
+  "title": "NEBOSH vs IOSH Managing Safely",
+  "desc": "A factual comparison of NEBOSH qualifications and IOSH Managing Safely, with official sources and links to our matching free courses.",
+  "n": 13,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/career-pack.html",
+  "title": "Career pack",
+  "desc": "A one-page CV template, a cover-letter template, an interview-prep guide with practice questions for HSE, quality and IT, and a guide to showing your Acade",
+  "n": 14,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/data-privacy.html",
+  "title": "Data Privacy & Governance",
+  "desc": "Free, trilingual Data Privacy & Governance exam-prep trainings, real certificates at $5 per course at AMAADOR ACADEMY.",
+  "n": 15,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/guides/islamic-inheritance-faraid-complete-guide.html",
+  "title": "Islamic Inheritance (Faraid): The Complete Guide",
+  "desc": "A complete reference on Islamic inheritance (ʿilm al-farāʾiḍ): Quranic fixed shares, residuary heirs (ʿaṣaba), the full calculation method with worked examples, blocking (ḥajb) rules and madhhab differences.",
+  "n": 16,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/custom-courses.html",
+  "title": "Custom course creation",
+  "desc": "Your procedure turned into a short, game-like e-learning module in EN, FR or AR.",
+  "n": 17,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/data.html",
+  "title": "Data Engineering & Analytics",
+  "desc": "Free, trilingual Data Engineering & Analytics exam-prep trainings, real certificates at $5 per course at AMAADOR ACADEMY.",
+  "n": 18,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/guides/iso-45001-complete-guide.html",
+  "title": "ISO 45001 Complete Guide: Clauses, PDCA, Audits & Certification",
+  "desc": "A clause-by-clause guide to ISO 45001:2018 — the PDCA structure, what auditors check, the certification process, and the nonconformities that trip up most organizations. Written for people preparing for ISO 45001 training or an audit.",
+  "n": 19,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/hiring-tests.html",
+  "title": "Skills tests for hiring",
+  "desc": "Timed online tests in EN, FR or AR for frontline and office roles: HSE basics, quality and ISO awareness, Excel and data. Each report has a QR code anyone",
+  "n": 20,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/devops.html",
+  "title": "DevOps & Platform Engineering",
+  "desc": "Free, trilingual DevOps & Platform Engineering exam-prep trainings, real certificates at $5 per course at AMAADOR ACADEMY.",
+  "n": 21,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/5s-workplace-organization-guide.html",
+  "title": "5S workplace organisation: steps, safety and sustaining",
+  "desc": "The five steps of 5S with their Japanese terms, how they cut hazards like trips and clutter, and how to stop 5S fading after the first clean-up.",
+  "n": 22,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/hse-induction.html",
+  "title": "HSE site-induction pack",
+  "desc": "A site-induction course with your logo, your hazards and your assembly point, plus a quiz, a visitor/contractor version and a printable register, in Englis",
+  "n": 23,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/energy.html",
+  "title": "Energy Management",
+  "desc": "ISO 50001 energy management plus CEM and CEA professional exam preparation - free training, certificate $3.",
+  "n": 24,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/addie-instructional-design-guide.html",
+  "title": "ADDIE in practice: training that changes work",
+  "desc": "The ADDIE model is still the backbone of most training design. How to apply each phase to technical and safety courses without drowning in documents.",
+  "n": 25,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/languages-live.html",
+  "title": "Languages Live",
+  "desc": "Live online speaking groups of up to 6 people at your level, in 8 languages including Tamazight, plus French and English for work. Start with the free plac",
+  "n": 26,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/environment.html",
+  "title": "Environment",
+  "desc": "ISO 14001 awareness, environmental aspects and impacts and compliance fundamentals - free training, certificate $3.",
+  "n": 27,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/ai-video-analytics-workplace-safety.html",
+  "title": "AI video analytics for workplace safety: a guide",
+  "desc": "AI on CCTV can flag missing PPE, exclusion zone breaches and forklift near misses. How it works, its limits, privacy and AI Act rules, and how to keep trust.",
+  "n": 28,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/live-cohorts.html",
+  "title": "Live 4-week cohorts",
+  "desc": "Small live online groups with a trainer, homework and a final project on your own workplace. First cohort: Lean 5S and daily problem-solving, in French or",
+  "n": 29,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/facility.html",
+  "title": "Facility Management - Free courses, certificate $5",
+  "desc": "IFMA FMP and CFM, building energy and BMS for facility professionals - free training, certificate $3.",
+  "n": 30,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/best-elearning-authoring-tools-2026.html",
+  "title": "E-learning authoring tools in 2026",
+  "desc": "From PowerPoint add-ins to full authoring platforms with AI, how established tools differ and which fits your team.",
+  "n": 31,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/mock-exams.html",
+  "title": "Mock-exam packs",
+  "desc": "Timed practice exams for CISSP, CompTIA Security+, AWS SAA and ASQ CRE.",
+  "n": 32,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/faith.html",
+  "title": "Faith",
+  "desc": "Free digital Islam trainings: fundamentals, Qur’an & Tajwid, Hajj & Umrah, inheritance, zakat, and Islamic finance — with links to Baby Steps Islam and Tafseery.",
+  "n": 33,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/best-lms-2026.html",
+  "title": "Learning management systems in 2026",
+  "desc": "Open-source, mid-market and enterprise LMS platforms compared by fit, with the criteria that matter for frontline and compliance training.",
+  "n": 34,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/toolbox-talks.html",
+  "title": "Toolbox-talk library",
+  "desc": "52 ready-to-run 5-minute safety talks in EN, FR and AR, with quizzes and sign-in sheets.",
+  "n": 35,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/finance.html",
+  "title": "Finance & Accounting - Free courses, certificate $5",
+  "desc": "Bookkeeping, financial statements, budgeting, cash flow and finance for non-financial managers - free training, certificate $3.",
+  "n": 36,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/best-online-learning-platforms-2026.html",
+  "title": "Online learning platforms in 2026",
+  "desc": "Coursera, edX, LinkedIn Learning, Pluralsight and Skillsoft serve different needs. How to choose, and how to judge the value of online certificates.",
+  "n": 37,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/offers/upgrades.html",
+  "title": "Upgrades and bundles",
+  "desc": "One-time add-ons for companies, a live Lean 5S cohort, and bundles that pair a free Academy course with the matching HSE kit.",
+  "n": 38,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/health.html",
+  "title": "Occupational Health",
+  "desc": "Chemical safety (GHS), PPE, ergonomics, heat, noise, respiratory and bloodborne pathogens - free training, certificate $3.",
+  "n": 39,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/blended-learning-for-industry.html",
+  "title": "Blended learning for technical teams",
+  "desc": "Combining online study with hands-on practice can cut classroom time and improve outcomes. A sourced guide to designing blends for industrial training.",
+  "n": 40,
+  "status": "pending"
+ },
+ {
+  "type": "offer",
+  "url": "https://amaadoracademy.com/pro/",
+  "title": "Find a tutor or professional training",
+  "desc": "Independent tutors and training providers in safety, quality, lean, languages and more. Filter by topic, place, language and format, then contact them directly.",
+  "n": 41,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/healthcare.html",
+  "title": "Healthcare & Patient Safety - Free courses, certificate $5",
+  "desc": "Patient safety, infection prevention & control (IPC), hand hygiene and quality of care - free training, certificate $3.",
+  "n": 42,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/competency-based-training-rpl.html",
+  "title": "Competency-based training and RPL explained",
+  "desc": "How competency frameworks, recognition of prior learning and the European Qualifications Framework help employers and learners make training count.",
+  "n": 43,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/hr.html",
+  "title": "HR & People - Free courses, certificate $5",
+  "desc": "Recruitment, onboarding, performance, employment-law basics and people management - free training, certificate $3.",
+  "n": 44,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/connected-ppe-safety-wearables.html",
+  "title": "Connected PPE and safety wearables: a practical guide",
+  "desc": "Smart helmets, vests and badges can detect falls, warn of vehicles and track heat strain. What they do, their limits, worker privacy and how to run a pilot.",
+  "n": 45,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/inheritance.html",
+  "title": "Estate & Inheritance - Free courses, certificate $5",
+  "desc": "Wills, probate, inheritance and estate tax, asset transfer, and the practical settlement of an estate for individuals and executors.",
+  "n": 46,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/construction-trades-safety-training.html",
+  "title": "Construction safety training: CSCS, CITB, IPAF",
+  "desc": "Site cards, access equipment training and vocational awarding bodies explained, using the UK system as a well-documented example.",
+  "n": 47,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/insurance.html",
+  "title": "Insurance - Free courses, certificate $5",
+  "desc": "Life, health, auto and home insurance — how it works and how much you really need, free, certificate $3.",
+  "n": 48,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/digital-badges-verifiable-credentials.html",
+  "title": "Digital badges and Open Badges 3.0 explained",
+  "desc": "Paper certificates are easy to fake and hard to verify. How Open Badges and credential platforms make achievements portable and checkable.",
+  "n": 49,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/islamic.html",
+  "title": "Islamic Studies - Free courses, certificate $5",
+  "desc": "Quran & Tajwid, Islam fundamentals and inheritance (faraid) — learn the essentials of the faith, free, certificate $3.",
+  "n": 50,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/digital-permit-to-work-systems.html",
+  "title": "Digital permit-to-work (ePTW): benefits and pitfalls",
+  "desc": "What an electronic permit-to-work system adds to permit control, from conflict checks to audit trails, and the pitfalls to avoid when you move from paper.",
+  "n": 51,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/leadership.html",
+  "title": "Leadership & Professional Skills - Free courses, certificate $5",
+  "desc": "Leadership, communication, time management, training and emotional intelligence - free training, certificate $3.",
+  "n": 52,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/digital-twins-process-safety.html",
+  "title": "Digital twins for process safety: uses and limits",
+  "desc": "How digital twins and process simulation support process safety: operator training, testing changes before MOC sign-off, barrier monitoring, and the limits.",
+  "n": 53,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/legal.html",
+  "title": "Legal & Litigation - Free courses, certificate $5",
+  "desc": "Contracts, claims, settlements, small claims and everyday consumer legal basics — free, certificate $3.",
+  "n": 54,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/drones-for-safety-inspections.html",
+  "title": "Drones for safety inspections: rules, risks, first steps",
+  "desc": "How drones can replace risky climbs and confined space entry for inspections, which aviation rules to check, the new risks they bring and how to get started.",
+  "n": 55,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/maintenance.html",
+  "title": "Maintenance & Reliability - Free courses, certificate $5",
+  "desc": "RCM, TPM, FMEA, CMMS, predictive maintenance and the CMRP certification - free training, certificate $3.",
+  "n": 56,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/emergency-fund-and-budgeting-basics.html",
+  "title": "Budgeting and emergency fund basics",
+  "desc": "How to build a simple monthly budget, start an emergency fund and choose between the debt avalanche and debt snowball, using public consumer guidance. Educational only.",
+  "n": 57,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/manufacturing-industrial-production.html",
+  "title": "Manufacturing & Industrial Production",
+  "desc": "Safe authorized preparation, operation, quality verification, abnormal response, environmental control, and escalation.",
+  "n": 58,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/emotional-intelligence-at-work.html",
+  "title": "Emotional intelligence at work: evidence and skills",
+  "desc": "What emotional intelligence is, from Salovey and Mayer to Goleman, what the research does and does not show, and practical skills that help at work.",
+  "n": 59,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/marketing.html",
+  "title": "Digital Marketing & SEO - Free courses, certificate $5",
+  "desc": "Digital marketing, SEO, Google Ads, content, social media, email and GA4 analytics - free training, verifiable certificate $3.",
+  "n": 60,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/energy-management-certifications.html",
+  "title": "Energy management certifications: CEM, CMVP",
+  "desc": "Credentials for energy managers and M&V professionals, and how they relate to ISO 50001 energy management systems.",
+  "n": 61,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/mental-health.html",
+  "title": "Mental Health and Wellbeing",
+  "desc": "Workplace mental health, stress and psychosocial-risk awareness (ISO 45003) - free training, certificate $3.",
+  "n": 62,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/energy-offshore-wind-safety-training.html",
+  "title": "Offshore, oil and gas and wind safety training",
+  "desc": "OPITO, GWO, ECITB and IADC: what each body does and how its training fits into energy-sector careers.",
+  "n": 63,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/quality.html",
+  "title": "Quality and Operational Excellence",
+  "desc": "ISO 9001 quality management, Lean Six Sigma, PMP, CQE - free training, certificate $3.",
+  "n": 64,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/first-aid-cpr-training-workplace.html",
+  "title": "Workplace first aid and CPR training",
+  "desc": "What first aid training covers, how CPR guidance has evolved, and how to choose recognised providers for your workforce.",
+  "n": 65,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/rse-csr.html",
+  "title": "CSR and Sustainability",
+  "desc": "ISO 26000 CSR and ethics plus GRI / ESG sustainability-reporting exam preparation - free training, certificate $3.",
+  "n": 66,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/gdpr-basics-for-employees.html",
+  "title": "GDPR basics for employees: a plain-language guide",
+  "desc": "GDPR in plain language for staff: personal data, the seven principles, lawful bases, individuals' rights, the 72-hour breach rule and everyday habits.",
+  "n": 67,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/safety.html",
+  "title": "Occupational Safety",
+  "desc": "ISO 45001, risk assessment, permits, fire, LOTO, working at height and incident investigation - free training, certificate $3.",
+  "n": 68,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/generative-ai-in-training-design.html",
+  "title": "Generative AI in training design",
+  "desc": "GenAI can speed up drafting, translation and question writing. How to use it responsibly in learning design, with checks for accuracy and risk.",
+  "n": 69,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/security.html",
+  "title": "Physical and Corporate Security",
+  "desc": "Physical security, lone working, business continuity (ISO 22301) and the CPP professional track - free training, certificate $3.",
+  "n": 70,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/ghg-scopes-carbon-accounting-explained.html",
+  "title": "GHG scopes 1, 2 and 3 explained: carbon accounting basics",
+  "desc": "Scopes 1, 2 and 3 under the GHG Protocol, location-based versus market-based scope 2, how emission factors work and how to start a GHG inventory.",
+  "n": 71,
+  "status": "pending"
+ },
+ {
+  "type": "training-field",
+  "url": "https://amaadoracademy.com/fields/supply-chain.html",
+  "title": "Supply Chain & Logistics - Free courses, certificate $5",
+  "desc": "Procurement, inventory, warehousing, logistics, Incoterms and supply-chain planning - free training, certificate $3.",
+  "n": 72,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/heat-stress-prevention-at-work.html",
+  "title": "Heat stress at work: signs, WBGT and prevention",
+  "desc": "How to recognise heat illness, measure heat with WBGT or the heat index, acclimatise new workers, apply water, rest and shade, and give first aid for heat stroke.",
+  "n": 73,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/risks/fire-safety/",
+  "title": "Fire safety and emergency preparedness training",
+  "desc": "Fire precautions and emergency planning are basic workplace duties in many legal systems. This page cites two US OSHA provisions that are often used as a reference, and links a free course and the $1 toolbox-talk library on this site.",
+  "n": 74,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/how-to-check-accreditation.html",
+  "title": "How to check a course or certification is real",
+  "desc": "Accreditation, ISO/IEC 17024, regulated qualifications and practical checks that protect learners and employers from worthless certificates.",
+  "n": 75,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/risks/hazard-communication/",
+  "title": "Hazard communication and GHS chemical-safety training",
+  "desc": "People who work with chemicals need to understand labels, safety data sheets and the hazards of the products they use. This page cites the US OSHA hazard-communication rule and the UN GHS, and links a free course and the $1 toolbox-talk library on this site.",
+  "n": 76,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/industrial-exoskeletons-manual-handling.html",
+  "title": "Industrial exoskeletons: evidence, risks and trials",
+  "desc": "Passive and active exoskeletons for lifting and overhead work: what NIOSH, EU-OSHA and IFA say, the new risks they bring, and how to run a fair trial.",
+  "n": 77,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/risks/lockout-tagout/",
+  "title": "Lockout/tagout (LOTO) and energy-control training",
+  "desc": "Unexpected start-up of machines and stored energy can injure people who are servicing equipment. This page cites the main US rule on energy control, and links a free course and the $1 toolbox-talk library already on this site.",
+  "n": 78,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/iot-gas-detection-connected-monitors.html",
+  "title": "Connected gas detectors: alarms, bump tests, limits",
+  "desc": "How wireless gas monitors send live alarms to a control room, why bump tests and calibration still matter, and the limits of connectivity and sensors.",
+  "n": 79,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/risks/machine-guarding/",
+  "title": "Machine guarding safety training",
+  "desc": "Moving parts, in-running nips and flying chips can injure people who work at or near machines. This page cites the main US OSHA machine-guarding rule and links a free course and the $1 toolbox-talk library on this site.",
+  "n": 80,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/lone-worker-safety-technology.html",
+  "title": "Lone worker devices and apps: a practical guide",
+  "desc": "Check-in timers, man-down alarms, SOS buttons and GPS can help lone workers, but only with a tested response plan. HSE guidance, limits and privacy explained.",
+  "n": 81,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/risks/permit-to-work/",
+  "title": "Permit-to-work training for high-risk jobs",
+  "desc": "A permit-to-work system is a written procedure used to control high-risk jobs such as hot work, confined-space entry or energy isolation. This page cites HSE’s published guidance and links a free course and the $1 toolbox-talk library on this site.",
+  "n": 82,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/microlearning-spaced-repetition.html",
+  "title": "Microlearning and spaced repetition that work",
+  "desc": "Short modules and smart review schedules can improve retention when they are designed around real tasks. A sourced guide with a practical playbook.",
+  "n": 83,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/risks/working-at-height/",
+  "title": "Working at height training and fall protection",
+  "desc": "Falls from height are a well-known workplace hazard. This page points to the official rules we cite, a free course already on this site, and the $1 toolbox-talk library.",
+  "n": 84,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/noise-at-work-hearing-protection.html",
+  "title": "Noise at work: limits, controls and hearing protection",
+  "desc": "How noise damages hearing, the EU, UK HSE and OSHA/NIOSH exposure values, the hierarchy of noise controls, getting hearing protectors to fit, and audiometry.",
+  "n": 85,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/roles/electricians/",
+  "title": "Electrical and isolation training for electricians",
+  "desc": "Free AMAADOR ACADEMY courses often used by electricians and electrical technicians: electrical safety, lockout/tagout, permits, PPE and related site hazards. Certificate of completion $5 per course.",
+  "n": 86,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/ot-cybersecurity-certifications.html",
+  "title": "OT and industrial cybersecurity certifications",
+  "desc": "From Security+ and CISSP to GICSP and ISA/IEC 62443 certificates: which credentials suit engineers who secure control systems.",
+  "n": 87,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/roles/scaffolders/",
+  "title": "Working-at-height training for scaffolders",
+  "desc": "Free AMAADOR ACADEMY courses often used by scaffolders and access teams: scaffolding safety, working at height, ladders, permits and PPE. Certificate of completion $5 per course.",
+  "n": 88,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/phishing-and-password-security-basics.html",
+  "title": "Phishing and password security basics",
+  "desc": "How to recognise and report phishing, build passphrases, use a password manager and turn on multi-factor authentication, based on NCSC, CISA and NIST guidance.",
+  "n": 89,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/roles/site-supervisors/",
+  "title": "Site supervisor safety and permit-to-work training",
+  "desc": "Free AMAADOR ACADEMY courses often used by site supervisors: permit to work, IOSH Managing Safely, NEBOSH IGC exam-prep, risk assessment and contractor control. Certificate $5; $8 Unlock-all where that live offer exists.",
+  "n": 90,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/predictive-maintenance-for-safety.html",
+  "title": "Predictive maintenance as a safety tool",
+  "desc": "Vibration, thermography, oil analysis and ultrasound can catch failures before they cause incidents. How condition monitoring improves safety, and its limits.",
+  "n": 91,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/roles/warehouse-staff/",
+  "title": "Warehouse and forklift safety training",
+  "desc": "Free AMAADOR ACADEMY courses often used in warehouses and logistics: warehouse operations, forklift safety, manual handling, PPE, fire and chemical storage. Certificate of completion $5 per course.",
+  "n": 92,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/project-management-certifications.html",
+  "title": "Project management certifications: PMP, APM",
+  "desc": "The best-known project management credentials, what they require and how they fit technical and industrial careers.",
+  "n": 93,
+  "status": "pending"
+ },
+ {
+  "type": "topic",
+  "url": "https://amaadoracademy.com/roles/welders/",
+  "title": "Hot-work and welding safety training",
+  "desc": "Free AMAADOR ACADEMY courses often used by welders and hot-work teams: hot-work and welding safety, fire, PPE, respiratory protection and permits. Certificate of completion $5 per course.",
+  "n": 94,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/quality-lean-six-sigma-certifications.html",
+  "title": "Quality and Lean Six Sigma certifications",
+  "desc": "Belts, accredited certifications and quality credentials explained, and how to judge which ones employers trust.",
+  "n": 95,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/root-cause-analysis-5-whys-guide.html",
+  "title": "Root cause analysis and the 5 Whys: a practical guide",
+  "desc": "How to run a 5 Whys and a root cause analysis well, use a fishbone diagram, and avoid the classic traps of blaming human error or settling on a single cause.",
+  "n": 96,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/time-management-techniques-that-work.html",
+  "title": "Time management techniques that actually work",
+  "desc": "Prioritising with the urgent/important matrix, timeboxing, the Pomodoro Technique, realistic planning and handling interruptions, with an honest look at evidence.",
+  "n": 97,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/vr-ar-training-2026.html",
+  "title": "VR and AR workplace training in 2026",
+  "desc": "Virtual and augmented reality can let people practise dangerous or rare tasks safely. A sourced look at use cases, limits and how to run a pilot.",
+  "n": 98,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/vr-safety-training-high-risk-tasks.html",
+  "title": "VR safety drills: extinguishers, evacuation, hazards",
+  "desc": "How virtual reality can support fire extinguisher practice, evacuation drills and hazard spotting, where it falls short, and how to evaluate a VR safety drill.",
+  "n": 99,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/welding-ndt-inspection-certifications.html",
+  "title": "Welding, inspection and NDT certifications",
+  "desc": "Personnel certifications for welders, welding inspectors and NDT technicians, and why they matter for asset integrity.",
+  "n": 100,
+  "status": "pending"
+ },
+ {
+  "type": "article",
+  "url": "https://amaadoracademy.com/insights/xapi-scorm-learning-data.html",
+  "title": "SCORM, xAPI and cmi5 learning data in 2026",
+  "desc": "The standards behind e-learning decide what you can track. A clear guide to SCORM, xAPI and learning record stores, and how to choose.",
+  "n": 101,
+  "status": "pending"
+ }
+]
