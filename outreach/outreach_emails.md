@@ -1,4 +1,4 @@
-# Outreach emails (35)
+# Outreach emails (51)
 
 All addresses were found published on each organization's own site (via domain-restricted search). Click the source link to confirm before sending.
 
@@ -942,6 +942,406 @@ Would you be open to a 15-minute call, or shall I send over the course outline a
 Best regards,
 Youssef Amaador
 KidQuest
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 36. STAM (HSE, Morocco)
+
+**To:** stam@stam.ma  
+**Source:** https://stam.ma/contact/  
+**Subject:** Formations et certifications HSE pour les équipes de STAM
+
+```
+Bonjour,
+
+Vos chantiers de barrages (Ratba, Boulaouane, Oued Lakhdar) et un parc de plus de 1 200 engins mobilisent un grand nombre d'ouvriers sur site, avec des risques importants liés aux engins, aux terrassements et au travail en hauteur.
+
+Je suis Youssef Amaador, d'Amaador HSE. Nous proposons des formations certifiantes en santé, sécurité et environnement, en présentiel sur vos sites ou à distance : sécurité au travail, travail en hauteur, sécurité incendie, premiers secours et sensibilisation ISO 45001. Chaque participant reçoit un certificat à l'issue de la formation, et nous fournissons aussi des supports et équipements de formation.
+
+Seriez-vous disponible pour un échange de 15 minutes, ou préférez-vous que je vous envoie notre catalogue et nos tarifs ?
+
+Bien cordialement,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Si vous ne souhaitez plus recevoir de messages de ma part, répondez simplement « non merci » et je ne vous recontacterai pas.
+```
+
+---
+
+## 37. SOMAGEC (HSE, Morocco)
+
+**To:** somagec@somagec.ma  
+**Source:** http://www.somagec.ma/contact.asp  
+**Subject:** Formations et certifications HSE pour les équipes de SOMAGEC
+
+```
+Bonjour,
+
+Vos réalisations portuaires, comme le quai à conteneurs de Tanger Med II ou le chantier naval de Casablanca, impliquent des risques spécifiques : travaux en bord à quai, levage et travail en hauteur.
+
+Je suis Youssef Amaador, d'Amaador HSE. Nous proposons des formations certifiantes en santé, sécurité et environnement, en présentiel sur vos sites ou à distance : sécurité au travail, travail en hauteur, sécurité incendie, premiers secours et sensibilisation ISO 45001. Chaque participant reçoit un certificat à l'issue de la formation, et nous fournissons aussi des supports et équipements de formation.
+
+Seriez-vous disponible pour un échange de 15 minutes, ou préférez-vous que je vous envoie notre catalogue et nos tarifs ?
+
+Bien cordialement,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Si vous ne souhaitez plus recevoir de messages de ma part, répondez simplement « non merci » et je ne vous recontacterai pas.
+```
+
+---
+
+## 38. Groupe TIMAR (HSE, Morocco)
+
+**To:** contact@timar.ma  
+**Source:** https://www.timar.ma/nos-implantations/  
+**Subject:** Formations et certifications HSE pour les équipes de Groupe TIMAR
+
+```
+Bonjour,
+
+Avec plus de 25 000 m² d'entrepôts à Casablanca, Marrakech, Agadir et Tanger, la sécurité en entrepôt (chariots élévateurs, manutention, incendie) est un enjeu quotidien pour vos équipes.
+
+Je suis Youssef Amaador, d'Amaador HSE. Nous proposons des formations certifiantes en santé, sécurité et environnement, en présentiel sur vos sites ou à distance : sécurité au travail, travail en hauteur, sécurité incendie, premiers secours et sensibilisation ISO 45001. Chaque participant reçoit un certificat à l'issue de la formation, et nous fournissons aussi des supports et équipements de formation.
+
+Seriez-vous disponible pour un échange de 15 minutes, ou préférez-vous que je vous envoie notre catalogue et nos tarifs ?
+
+Bien cordialement,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Si vous ne souhaitez plus recevoir de messages de ma part, répondez simplement « non merci » et je ne vous recontacterai pas.
+```
+
+---
+
+## 39. Colorado (HSE, Morocco)
+
+**To:** info@colorado.ma  
+**Source:** https://www.colorado.ma/corporate/sites/default/files/telechargements/exe-plaquette_fr_en_text.pdf  
+**Subject:** Formations et certifications HSE pour les équipes de Colorado
+
+```
+Bonjour,
+
+En tant que leader de la peinture au Maroc, vos sites de production manipulent des produits chimiques et inflammables : la sécurité incendie et la manipulation des produits dangereux sont des sujets clés.
+
+Je suis Youssef Amaador, d'Amaador HSE. Nous proposons des formations certifiantes en santé, sécurité et environnement, en présentiel sur vos sites ou à distance : sécurité au travail, travail en hauteur, sécurité incendie, premiers secours et sensibilisation ISO 45001. Chaque participant reçoit un certificat à l'issue de la formation, et nous fournissons aussi des supports et équipements de formation.
+
+Seriez-vous disponible pour un échange de 15 minutes, ou préférez-vous que je vous envoie notre catalogue et nos tarifs ?
+
+Bien cordialement,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Si vous ne souhaitez plus recevoir de messages de ma part, répondez simplement « non merci » et je ne vous recontacterai pas.
+```
+
+---
+
+## 40. Khansaheb (HSE, UAE)
+
+**To:** info.group@khansaheb.com  
+**Source:** https://khansaheb.com/contact-us/  
+**Subject:** Certified HSE training for the Khansaheb team
+
+```
+Hello,
+
+With Khansaheb's construction, civil engineering and facilities-management teams working across the UAE, keeping every site crew's safety training current is a constant job.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 41. Black Cat Engineering & Construction (HSE, Qatar)
+
+**To:** enquiries@blackcat.com.qa  
+**Source:** https://www.blackcatqatar.com/contact/  
+**Subject:** Certified HSE training for the Black Cat Engineering & Construction team
+
+```
+Hello,
+
+With 1,500+ staff and a 33,000 m² fabrication yard at Ras Laffan, your teams face hot work, lifting and working at height every day.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 42. ALMUZAIN (HSE, Saudi Arabia)
+
+**To:** info@almuzain.com  
+**Source:** https://almuzain.com/contact-almuzain.php  
+**Subject:** Certified HSE training for the ALMUZAIN team
+
+```
+Hello,
+
+Your shutdown, scaffolding and heat-treatment crews on petrochemical sites make working at height, permit-to-work and confined-space training essential.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 43. Allied Transport Company (HSE, UAE)
+
+**To:** contact@allied-transport.com  
+**Source:** https://allied-transport.com/  
+**Subject:** Certified HSE training for the Allied Transport Company team
+
+```
+Hello,
+
+Running a fleet of around 1,000 prime movers across the GCC means driver safety, loading and fatigue management matter at a very large scale.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 44. CHARIER (HSE, France)
+
+**To:** contact@charier.fr  
+**Source:** https://www.charier.fr/images/RSE/2024_Magazine_AGIR.pdf  
+**Subject:** Formations et certifications HSE pour les équipes de CHARIER
+
+```
+Bonjour,
+
+En tant qu'entreprise à mission dans les travaux publics, les carrières et le recyclage, la sécurité de vos équipes sur chantier et en carrière est au coeur de vos engagements.
+
+Je suis Youssef Amaador, d'Amaador HSE. Nous proposons des formations certifiantes en santé, sécurité et environnement, en présentiel sur vos sites ou à distance : sécurité au travail, travail en hauteur, sécurité incendie, premiers secours et sensibilisation ISO 45001. Chaque participant reçoit un certificat à l'issue de la formation, et nous fournissons aussi des supports et équipements de formation.
+
+Seriez-vous disponible pour un échange de 15 minutes, ou préférez-vous que je vous envoie notre catalogue et nos tarifs ?
+
+Bien cordialement,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Si vous ne souhaitez plus recevoir de messages de ma part, répondez simplement « non merci » et je ne vous recontacterai pas.
+```
+
+---
+
+## 45. BRIAND Métal (HSE, France)
+
+**To:** contact@briandmetal.fr  
+**Source:** https://www.briand.fr/projet-briand-metal/  
+**Subject:** Formations et certifications HSE pour les équipes de BRIAND Métal
+
+```
+Bonjour,
+
+Votre campagne interne « Être vigilant » montre l'importance que vous accordez à la sécurité, et le montage de charpentes métalliques expose vos équipes au travail en hauteur.
+
+Je suis Youssef Amaador, d'Amaador HSE. Nous proposons des formations certifiantes en santé, sécurité et environnement, en présentiel sur vos sites ou à distance : sécurité au travail, travail en hauteur, sécurité incendie, premiers secours et sensibilisation ISO 45001. Chaque participant reçoit un certificat à l'issue de la formation, et nous fournissons aussi des supports et équipements de formation.
+
+Seriez-vous disponible pour un échange de 15 minutes, ou préférez-vous que je vous envoie notre catalogue et nos tarifs ?
+
+Bien cordialement,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Si vous ne souhaitez plus recevoir de messages de ma part, répondez simplement « non merci » et je ne vous recontacterai pas.
+```
+
+---
+
+## 46. Van Moer Logistics (HSE, Belgium)
+
+**To:** hr@vanmoer.com  
+**Source:** https://vanmoer.com/contact  
+**Subject:** Gecertificeerde HSE-trainingen voor Van Moer Logistics
+
+```
+Goedendag,
+
+Met zo'n 40 vestigingen en 850.000 m² opslag zijn heftruckveiligheid, brandpreventie en EHBO dagelijkse aandachtspunten voor uw medewerkers.
+
+Ik ben Youssef Amaador van Amaador HSE. Wij verzorgen gecertificeerde trainingen op het gebied van gezondheid, veiligheid en milieu, op uw locatie of online: veilig werken, werken op hoogte, brandveiligheid, EHBO en ISO 45001-bewustwording. Elke deelnemer ontvangt na afloop een certificaat, en we leveren ook trainingsmaterialen.
+
+Staat u open voor een kort gesprek van 15 minuten, of zal ik onze cursusoverzicht en prijzen sturen?
+
+Met vriendelijke groet,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Wilt u geen berichten meer van mij ontvangen? Antwoord dan "nee bedankt" en ik neem geen contact meer op.
+```
+
+---
+
+## 47. Hollandia Services (HSE, Netherlands)
+
+**To:** info@hollandiaservices.nl  
+**Source:** https://hollandia.biz/en/contact-services/  
+**Subject:** Gecertificeerde HSE-trainingen voor Hollandia Services
+
+```
+Goedendag,
+
+Met het nieuwe Rijkswaterstaat-contract voor beweegbare bruggen in Zuid-Holland, te beginnen met de Merwedebrug, werken uw monteurs veel op hoogte en boven het water.
+
+Ik ben Youssef Amaador van Amaador HSE. Wij verzorgen gecertificeerde trainingen op het gebied van gezondheid, veiligheid en milieu, op uw locatie of online: veilig werken, werken op hoogte, brandveiligheid, EHBO en ISO 45001-bewustwording. Elke deelnemer ontvangt na afloop een certificaat, en we leveren ook trainingsmaterialen.
+
+Staat u open voor een kort gesprek van 15 minuten, of zal ik onze cursusoverzicht en prijzen sturen?
+
+Met vriendelijke groet,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+Wilt u geen berichten meer van mij ontvangen? Antwoord dan "nee bedankt" en ik neem geen contact meer op.
+```
+
+---
+
+## 48. Seddon Construction (HSE, UK)
+
+**To:** enquiries@seddon.co.uk  
+**Source:** https://seddon.co.uk/contact  
+**Subject:** Certified HSE training for the Seddon Construction team
+
+```
+Hello,
+
+Because Seddon employs around 160 of its own tradespeople directly, keeping their safety training and certificates up to date sits with you rather than with subcontractors.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 49. Thomas Armstrong Group (HSE, UK)
+
+**To:** webenquiries@thomasarmstrong.co.uk  
+**Source:** https://www.thomasarmstrong.co.uk/contact-us  
+**Subject:** Certified HSE training for the Thomas Armstrong Group team
+
+```
+Hello,
+
+With both construction sites and concrete block plants, your teams cover two quite different risk profiles, from working at height to plant and machinery safety.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 50. Hourigan (HSE, US)
+
+**To:** general@hourigan.group  
+**Source:** https://www.hourigan.group/contact/  
+**Subject:** Certified HSE training for the Hourigan team
+
+```
+Hello,
+
+With the Gray|Hourigan joint venture on the LEGO plant in Chesterfield and your growing project load, keeping crews' OSHA-aligned safety training current is a constant job.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
+youssef@amaador-hse.com
+
+If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
+```
+
+---
+
+## 51. Evans Distribution Systems (HSE, US)
+
+**To:** sales@evansdist.com  
+**Source:** https://www.evansdist.com/contact/  
+**Subject:** Certified HSE training for the Evans Distribution Systems team
+
+```
+Hello,
+
+With around 5 million sq ft of warehouse space and your 3PL labor staffing, forklift and warehouse safety training for new associates must be a constant need.
+
+I'm Youssef Amaador from Amaador HSE. We deliver certified health, safety and environment training, on your sites or online: workplace safety, working at height, fire safety, first aid and ISO 45001 awareness. Every participant receives a certificate on completion, and we also supply training materials.
+
+Would you be open to a 15-minute call, or shall I send our course catalogue and pricing?
+
+Best regards,
+Youssef Amaador
+Amaador HSE
 youssef@amaador-hse.com
 
 If you'd rather not hear from me again, just reply "no thanks" and I won't contact you further.
