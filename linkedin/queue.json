@@ -73,7 +73,9 @@
   "title": "New courses",
   "desc": "Courses added recently on AMAADOR ACADEMY, listed newest first. Every course is free to start; a verifiable certificate is available for $3. Practice exams are $3.",
   "n": 8,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-18T19:37Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7528904443438772224/"
  },
  {
   "type": "training-field",
