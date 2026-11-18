@@ -43,7 +43,9 @@
   "title": "Practice exams",
   "desc": "Timed practice exams (mock tests) for CISSP, PMP, AWS, Azure, Lean Six Sigma, ISO 45001 and more. A practice exam is $3 (promotion until 31 Dec 2026). Shuffled questions, instant scoring at the 80% pass mark, and full answer review. No account.",
   "n": 5,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-18T12:37Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7528798612731101184/"
  },
  {
   "type": "training-field",
