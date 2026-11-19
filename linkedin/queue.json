@@ -163,7 +163,9 @@
   "title": "Custom course creation",
   "desc": "Your procedure turned into a short, game-like e-learning module in EN, FR or AR.",
   "n": 17,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-19T19:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529266966927269890/"
  },
  {
   "type": "training-field",
