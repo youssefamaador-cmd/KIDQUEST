@@ -103,7 +103,9 @@
   "title": "Branded company academy",
   "desc": "A private Academy space in your colours: you pick the courses, invite your learners, follow progress and export SCORM packages to your own LMS.",
   "n": 11,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-19T09:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529115820061274112/"
  },
  {
   "type": "training-field",
