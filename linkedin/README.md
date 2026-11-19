@@ -18,3 +18,9 @@ AMAADOR LinkedIn company page (page id `146769350`), one post at a time, 9 per d
 6. If publishing fails, set `status` to `failed` with the error and move on; do not retry more than once.
 
 Certificate price: use $5 per course (homepage and Offers page).
+
+## If a publish call times out
+Do not re-post blindly. Check the page's latest posts first with Zapier LinkedIn `_zap_raw_request`
+(read action): GET `https://api.linkedin.com/rest/posts`, query `author=urn:li:organization:146769350`,
+`q=author`, `count=3`, `sortBy=CREATED`, header `LinkedIn-Version: 202606`.
+If the post is there, record it; only re-post if it is missing.
