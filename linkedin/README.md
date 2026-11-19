@@ -24,3 +24,9 @@ Do not re-post blindly. Check the page's latest posts first with Zapier LinkedIn
 (read action): GET `https://api.linkedin.com/rest/posts`, query `author=urn:li:organization:146769350`,
 `q=author`, `count=3`, `sortBy=CREATED`, header `LinkedIn-Version: 202606`.
 If the post is there, record it; only re-post if it is missing.
+
+## Finance course posts
+Items with `"type": "finance-course"` are single-course posts the owner asked for (CFA, FRM, CPA, ACCA...).
+Write them like the others: course name as the hook, 2–3 real facts from the course page
+(level, chapters, number of questions, who it is for), free to study, optional $5 certificate.
+Never claim the course is endorsed by CFA Institute, GARP, ACCA or any exam owner.
