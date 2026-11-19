@@ -133,7 +133,9 @@
   "title": "Career pack",
   "desc": "A one-page CV template, a cover-letter template, an interview-prep guide with practice questions for HSE, quality and IT, and a guide to showing your Acade",
   "n": 14,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-19T12:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529161104413958144/"
  },
  {
   "type": "training-field",
