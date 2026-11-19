@@ -183,31 +183,39 @@
   "title": "Finance & Accounting - Free courses, certificate $5",
   "desc": "Bookkeeping, financial statements, budgeting, cash flow and finance for non-financial managers - free training, certificate $3.",
   "n": 19,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-19T20:49Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529282944339755008/"
  },
  {
   "type": "finance-course",
   "url": "https://amaadoracademy.com/training/cfa-level-1.html",
   "title": "CFA Level I Exam Prep: Free Course & Practice Questions",
   "desc": "Free, independent CFA Level I exam prep: visual lessons, original practice questions, a final exam and a signed certificate. No account.",
-  "status": "pending",
-  "n": 20
+  "status": "posted",
+  "n": 20,
+  "posted_at": "2026-11-19T20:49Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529282979966275585/"
  },
  {
   "type": "finance-course",
   "url": "https://amaadoracademy.com/training/cfa-level-2-full.html",
   "title": "CFA Level II — Asset Valuation (Exam-Prep)",
   "desc": "A free, independent walkthrough of the Level II item-set curriculum, with the heaviest focus on equity and fixed-income valuation.",
-  "status": "pending",
-  "n": 21
+  "status": "posted",
+  "n": 21,
+  "posted_at": "2026-11-19T20:49Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529283000220696576/"
  },
  {
   "type": "finance-course",
   "url": "https://amaadoracademy.com/training/cfa-level-3-full.html",
   "title": "CFA Level III — Portfolio Management & Wealth (Exam-Prep)",
   "desc": "An independent, structured walkthrough of the Level III curriculum, from ethics and asset allocation to private wealth, institutional mandates.",
-  "status": "pending",
-  "n": 22
+  "status": "posted",
+  "n": 22,
+  "posted_at": "2026-11-19T20:49Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529283027491815424/"
  },
  {
   "type": "finance-course",
