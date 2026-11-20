@@ -17,7 +17,7 @@ AMAADOR LinkedIn company page (page id `146769350`), one post at a time, 9 per d
 5. Set `status` to `posted`, add `posted_at` and `linkedin_url`, commit and push.
 6. If publishing fails, set `status` to `failed` with the error and move on; do not retry more than once.
 
-Certificate price: use $5 per course (homepage and Offers page).
+Certificate price: use the price shown on that course page ($5 for most courses; some professional exam-prep courses such as CIA and CMA show $29). If a page is ambiguous, leave the price out.
 
 ## If a publish call times out
 Do not re-post blindly. Check the page's latest posts first with Zapier LinkedIn `_zap_raw_request`
