@@ -302,16 +302,19 @@
   "url": "https://amaadoracademy.com/training/certified-financial-planner.html",
   "title": "Certified Financial Planner (CFP) - Exam-Prep",
   "desc": "For aspiring and practicing financial professionals preparing independently for the CFP® certification exam — build mastery across all 8 official Principal.",
-  "status": "pending",
-  "n": 31
+  "status": "blocked",
+  "n": 31,
+  "note": "Page body shows AWS Cloud Practitioner content instead of CFP; re-check after site fix"
  },
  {
   "type": "finance-course",
   "url": "https://amaadoracademy.com/training/caia-exam-prep.html",
   "title": "CAIA Exam Prep: Alternative Investments Course (Free)",
   "desc": "Free, independent CAIA Levels I and II study course: ethics, hedge funds, private equity, real assets, commodities, private credit, risk and allocation.",
-  "status": "pending",
-  "n": 32
+  "status": "posted",
+  "n": 32,
+  "posted_at": "2026-11-20T20:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529644216415657984/"
  },
  {
   "type": "finance-course",
