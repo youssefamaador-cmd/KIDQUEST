@@ -292,8 +292,10 @@
   "url": "https://amaadoracademy.com/training/cams-full.html",
   "title": "CAMS — Certified Anti-Money Laundering Specialist (Exam-Prep)",
   "desc": "Free, independent exam-prep for CAMS (Certified Anti-Money Laundering Specialist): visual lessons, original practice questions.",
-  "status": "pending",
-  "n": 30
+  "status": "posted",
+  "n": 30,
+  "posted_at": "2026-11-20T19:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529629137670627328/"
  },
  {
   "type": "finance-course",
