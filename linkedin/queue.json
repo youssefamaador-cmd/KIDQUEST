@@ -222,8 +222,10 @@
   "url": "https://amaadoracademy.com/training/frm-full.html",
   "title": "FRM — Financial Risk Manager (Exam-Prep, Parts I & II)",
   "desc": "Free, independent exam-prep for FRM — Financial Risk Manager (Exam-Prep, Parts I & II): visual lessons, original practice questions and a final exam.",
-  "status": "pending",
-  "n": 23
+  "status": "posted",
+  "n": 23,
+  "posted_at": "2026-11-20T08:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529463209053974528/"
  },
  {
   "type": "finance-course",
