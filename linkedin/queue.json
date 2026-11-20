@@ -232,8 +232,10 @@
   "url": "https://amaadoracademy.com/training/cpa-full.html",
   "title": "CPA — Certified Public Accountant (US Exam-Prep)",
   "desc": "Free, independent exam-prep for CPA — Certified Public Accountant (US Exam-Prep): visual lessons, original practice questions and a final exam, plus a signed.",
-  "status": "pending",
-  "n": 24
+  "status": "posted",
+  "n": 24,
+  "posted_at": "2026-11-20T09:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529478109507653632/"
  },
  {
   "type": "finance-course",
