@@ -262,8 +262,10 @@
   "url": "https://amaadoracademy.com/training/cma-full.html",
   "title": "CMA Exam Prep: Certified Management Accountant (Free)",
   "desc": "Free, independent CMA exam prep following the public IMA Content Specification Outlines for Part 1 and Part 2, with practice questions and a final exam.",
-  "status": "pending",
-  "n": 27
+  "status": "posted",
+  "n": 27,
+  "posted_at": "2026-11-20T12:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529523411958743040/"
  },
  {
   "type": "finance-course",
