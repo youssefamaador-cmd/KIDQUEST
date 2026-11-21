@@ -361,8 +361,10 @@
   "url": "https://amaadoracademy.com/training/financial-modelling-and-valuation-in-excel.html",
   "title": "Financial Modelling and Valuation in Excel: Three-Statement Model and DCF",
   "desc": "Build a clean, linked three-statement model in Excel, turn it into free cash flow, estimate WACC and value a company with a DCF you can test and defend.",
-  "status": "pending",
-  "n": 37
+  "status": "posted",
+  "n": 37,
+  "posted_at": "2026-11-21T12:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529885836948074496/"
  },
  {
   "type": "finance-course",
