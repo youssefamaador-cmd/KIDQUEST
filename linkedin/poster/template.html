@@ -50,7 +50,7 @@ li b{flex:none;width:38px;height:38px;border-radius:12px;display:grid;place-item
  <div class="sub" id="sub"></div>
  <ul id="bullets"></ul>
  <div class="foot" id="pills"></div>
- <div class="url"><span>Free to study · EN · FR · ع</span><span id="url">amaadoracademy.com</span></div>
+ <div class="url"><span id="footl">Free to study · EN · FR · ع</span><span id="url">amaadoracademy.com</span></div>
 </div>
 <script>
 const d = window.POSTER || {};
@@ -63,6 +63,7 @@ document.getElementById('title').innerHTML = esc(d.title || '').replace(/\*(.+?)
 document.getElementById('sub').textContent = d.sub || '';
 document.getElementById('bullets').innerHTML = (d.bullets || []).map(b => '<li><b>✓</b><span>' + esc(b) + '</span></li>').join('');
 document.getElementById('pills').innerHTML = (d.pills || []).map((p, i) => '<div class="pill' + (i === 0 ? ' price' : '') + '">' + esc(p) + '</div>').join('');
-if (d.url) document.getElementById('url').textContent = d.url;
+if (d.url) document.getElementById("url").textContent = d.url;
+if (d.foot) document.getElementById("footl").textContent = d.foot;
 </script>
 </body></html>

@@ -41,7 +41,8 @@ Geist + Instrument Serif, glass card, hexagon logo.
    `{"kicker": "Free course | Exam prep | Offer | Free guide | Free article",
      "emoji": "one emoji", "title": "short title, wrap one key word in *stars* for the serif highlight",
      "sub": "one line", "bullets": ["3 short facts"], "pills": ["price or Free", "1-2 more facts"],
-     "url": "amaadoracademy.com/...", "accent": "r,g,b"}`
+     "url": "amaadoracademy.com/...", "accent": "r,g,b",
+     "foot": "optional bottom-left line; use English · Français · العربية for paid offers"}`
    Accent by theme: finance 48,209,88 · safety 255,159,10 · cyber/IT 41,151,255 · AI/data 191,90,242 ·
    people/career 100,210,255 · offers 255,55,95 · faith 255,214,10.
 2. Render: `node linkedin/poster/render.js <spec.json> linkedin/posters/NNN.png` (NNN = queue `n`, 3 digits).
