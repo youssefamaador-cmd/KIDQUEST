@@ -414,7 +414,10 @@
   "title": "DevOps & Platform Engineering",
   "desc": "Free, trilingual DevOps & Platform Engineering exam-prep trainings, real certificates at $5 per course at AMAADOR ACADEMY.",
   "n": 42,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-21T20:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530006775849385985/",
+  "poster": "linkedin/posters/042.png"
  },
  {
   "type": "article",
