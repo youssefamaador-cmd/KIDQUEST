@@ -403,7 +403,10 @@
   "title": "Skills tests for hiring",
   "desc": "Timed online tests in EN, FR or AR for frontline and office roles: HSE basics, quality and ISO awareness, Excel and data. Each report has a QR code anyone",
   "n": 41,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-21T19:42Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7529991722777497600/",
+  "poster": "linkedin/posters/041.png"
  },
  {
   "type": "training-field",
