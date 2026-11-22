@@ -22,11 +22,12 @@ AMAADOR LinkedIn company page (page id `146769350`), one post at a time, 9 per d
 
 Certificate price: use the price shown on that course page ($5 for most courses; some professional exam-prep courses such as CIA and CMA show $29). If a page is ambiguous, leave the price out.
 
-## If a publish call times out
+## If a publish call times out or returns an error
 Do not re-post blindly. Check the page's latest posts first with Zapier LinkedIn `_zap_raw_request`
 (read action): GET `https://api.linkedin.com/rest/posts`, query `author=urn:li:organization:146769350`,
 `q=author`, `count=3`, `sortBy=CREATED`, header `LinkedIn-Version: 202606`.
 If the post is there, record it; only re-post if it is missing.
+Zapier has returned "Could not find entity" even though the post was published, so always check first.
 
 ## Finance course posts
 Items with `"type": "finance-course"` are single-course posts the owner asked for (CFA, FRM, CPA, ACCA...).
