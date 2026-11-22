@@ -469,7 +469,10 @@
   "title": "Languages Live",
   "desc": "Live online speaking groups of up to 6 people at your level, in 8 languages including Tamazight, plus French and English for work. Start with the free plac",
   "n": 47,
-  "status": "pending"
+  "status": "posted",
+  "posted_at": "2026-11-22T12:38Z",
+  "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530248263837581313/",
+  "poster": "linkedin/posters/047.png"
  },
  {
   "type": "training-field",
