@@ -515,7 +515,10 @@
     "title": "Facility Management - Free courses, certificate $5",
     "desc": "IFMA FMP and CFM, building energy and BMS for facility professionals - free training, certificate $3.",
     "n": 51,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-22T20:38:20Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530369096320761856/",
+    "poster": "linkedin/posters/051.png"
   },
   {
     "type": "article",
