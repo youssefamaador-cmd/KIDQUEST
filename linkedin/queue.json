@@ -503,7 +503,11 @@
     "title": "Live 4-week cohorts",
     "desc": "Small live online groups with a trainer, homework and a final project on your own workplace. First cohort: Lean 5S and daily problem-solving, in French or",
     "n": 50,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-22T19:38:03Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530353925816877056/",
+    "poster": "linkedin/posters/050.png",
+    "note": "Page now a self-paced 4-week guided program at 249 USD, not live trainer cohorts"
   },
   {
     "type": "training-field",
