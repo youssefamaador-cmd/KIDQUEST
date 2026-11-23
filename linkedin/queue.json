@@ -537,7 +537,10 @@
     "title": "Mock-exam packs",
     "desc": "Timed practice exams for CISSP, CompTIA Security+, AWS SAA and ASQ CRE.",
     "n": 53,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-23T09:38:20Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530565390620336129/",
+    "poster": "linkedin/posters/053.png"
   },
   {
     "type": "training-field",
