@@ -604,7 +604,10 @@
     "title": "Occupational Health",
     "desc": "Chemical safety (GHS), PPE, ergonomics, heat, noise, respiratory and bloodborne pathogens - free training, certificate $3.",
     "n": 59,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-23T19:38:28Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530716420884611074/",
+    "poster": "linkedin/posters/059.png"
   },
   {
     "type": "article",
