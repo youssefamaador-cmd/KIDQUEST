@@ -626,7 +626,11 @@
     "title": "Find a tutor or professional training",
     "desc": "Independent tutors and training providers in safety, quality, lean, languages and more. Filter by topic, place, language and format, then contact them directly.",
     "n": 61,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-24T08:38:15Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530912659240579072/",
+    "poster": "linkedin/posters/061.png",
+    "note": "Directory had 0 listings; post aimed at tutors to list themselves"
   },
   {
     "type": "training-field",
