@@ -705,7 +705,10 @@
     "title": "Insurance - Free courses, certificate $5",
     "desc": "Life, health, auto and home insurance — how it works and how much you really need, free, certificate $3.",
     "n": 68,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-24T19:38:15Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7531078750722097152/",
+    "poster": "linkedin/posters/068.png"
   },
   {
     "type": "article",
