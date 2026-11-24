@@ -682,7 +682,11 @@
     "title": "Estate & Inheritance - Free courses, certificate $5",
     "desc": "Wills, probate, inheritance and estate tax, asset transfer, and the practical settlement of an estate for individuals and executors.",
     "n": 66,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-24T13:38:31Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530988200283201536/",
+    "poster": "linkedin/posters/066.png",
+    "note": "Zapier returned Could not find entity but post was published; verified via GET"
   },
   {
     "type": "article",
