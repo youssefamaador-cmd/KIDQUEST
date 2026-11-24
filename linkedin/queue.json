@@ -660,7 +660,10 @@
     "title": "HR & People - Free courses, certificate $5",
     "desc": "Recruitment, onboarding, performance, employment-law basics and people management - free training, certificate $3.",
     "n": 64,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-24T11:38:05Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530957914816049152/",
+    "poster": "linkedin/posters/064.png"
   },
   {
     "type": "article",
