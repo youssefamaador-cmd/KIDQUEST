@@ -638,7 +638,10 @@
     "title": "Healthcare & Patient Safety - Free courses, certificate $5",
     "desc": "Patient safety, infection prevention & control (IPC), hand hygiene and quality of care - free training, certificate $3.",
     "n": 62,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-24T09:38:26Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7530927801286385666/",
+    "poster": "linkedin/posters/062.png"
   },
   {
     "type": "article",
