@@ -750,7 +750,10 @@
     "title": "Leadership & Professional Skills - Free courses, certificate $5",
     "desc": "Leadership, communication, time management, training and emotional intelligence - free training, certificate $3.",
     "n": 72,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-25T10:38:21Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7531305268807118849/",
+    "poster": "linkedin/posters/072.png"
   },
   {
     "type": "article",
