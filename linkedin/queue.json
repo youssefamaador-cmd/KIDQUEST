@@ -794,7 +794,10 @@
     "title": "Maintenance & Reliability - Free courses, certificate $5",
     "desc": "RCM, TPM, FMEA, CMMS, predictive maintenance and the CMRP certification - free training, certificate $3.",
     "n": 76,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-25T14:38:32Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7531365713496743936/",
+    "poster": "linkedin/posters/076.png"
   },
   {
     "type": "article",
