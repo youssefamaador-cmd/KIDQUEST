@@ -727,7 +727,11 @@
     "title": "Islamic Studies - Free courses, certificate $5",
     "desc": "Quran & Tajwid, Islam fundamentals and inheritance (faraid) — learn the essentials of the faith, free, certificate $3.",
     "n": 70,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-25T08:38:20Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7531275065712295936/",
+    "poster": "linkedin/posters/070.png",
+    "note": "Page header uses the dharma wheel emoji for Islamic Studies; flagged to owner"
   },
   {
     "type": "article",
