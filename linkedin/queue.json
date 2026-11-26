@@ -860,7 +860,11 @@
     "title": "Mental Health and Wellbeing",
     "desc": "Workplace mental health, stress and psychosocial-risk awareness (ISO 45003) - free training, certificate $3.",
     "n": 82,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-26T11:39:06Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7531682925218824192/",
+    "poster": "linkedin/posters/082.png",
+    "note": "Zapier returned Could not find entity but post was published; verified via GET"
   },
   {
     "type": "article",
