@@ -950,7 +950,10 @@
     "title": "Physical and Corporate Security",
     "desc": "Physical security, lone working, business continuity (ISO 22301) and the CPP professional track - free training, certificate $3.",
     "n": 90,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-27T10:38:26Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7532030064096354304/",
+    "poster": "linkedin/posters/090.png"
   },
   {
     "type": "article",
