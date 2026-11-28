@@ -1049,7 +1049,10 @@
     "title": "Connected gas detectors: alarms, bump tests, limits",
     "desc": "How wireless gas monitors send live alarms to a control room, why bump tests and calibration still matter, and the limits of connectivity and sensors.",
     "n": 99,
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-11-28T10:38:15Z",
+    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7532392408332845056/",
+    "poster": "linkedin/posters/099.png"
   },
   {
     "type": "topic",
